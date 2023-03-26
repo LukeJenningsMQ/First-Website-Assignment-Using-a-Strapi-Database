@@ -1,3 +1,16 @@
+# Introduction
+
+This is a website and strapi database made for my web technology unit. After the dependencies are installed using 'npm', you can run both the backend and the frontend use:
+
+```shell
+npm run backend
+```
+```shell
+npm run frontend
+```
+
+More details of assignment below
+
 # COMP2110 Web Development Assignment
 
 This project implements the Bob's Jobs web application for the COMP2110 
