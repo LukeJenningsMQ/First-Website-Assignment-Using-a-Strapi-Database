@@ -1,3 +1,26 @@
+#Introduction
+
+This is a website that uses a strapi database that I made for my web technology unit. In this repo I have included the files for frontend, you need to create the backend strapi database yourself. Instructions to do so are included. 
+
+This is a job application website where companies can post jobs and company information, then job applicants can log in and apply for the jobs. A video demonstrated can be seen here: 
+
+After the dependencies are installed using 'npm' such as 'http-server', you can run the frontend:
+
+```shell
+npm install
+```
+
+```shell
+npm run frontend
+```
+Then you can follow the information on how to create the strapi backend and upload the sample data
+
+```shell
+npm run backend
+```
+
+
+More details of assignment below
 # COMP2110 Web Development Assignment
 
 This project implements the Bob's Jobs web application for the COMP2110 
