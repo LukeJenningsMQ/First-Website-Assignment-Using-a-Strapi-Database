@@ -1,4 +1,4 @@
-#Introduction
+# Quick Introduction
 
 This is a website that uses a strapi database that I made for my web technology unit. In this repo I have included the files for frontend, you need to create the backend strapi database yourself. Instructions to do so are included. 
 
@@ -13,14 +13,24 @@ npm install
 ```shell
 npm run frontend
 ```
-Then you can follow the information on how to create the strapi backend and upload the sample data
-[assignment spec](doc/backend.md).
+Then you can follow the information on how to create the strapi backend and upload the sample data. 
+[BACKEND INFO](doc/backend.md).
 
+You will create a strapi app
+```shell
+npx create-strapi-app@latest backend --quickstart
+```
+
+then run it
 ```shell
 npm run backend
 ```
-[assignment spec](doc/data.md).
 
+Use the data.md file in doc to configure the strapi database for the companines info, jobs and users logins data. [Database setup](doc/data.md).
+
+```shell
+npm run sampleData
+```
 
 More details of assignment below
 # COMP2110 Web Development Assignment
