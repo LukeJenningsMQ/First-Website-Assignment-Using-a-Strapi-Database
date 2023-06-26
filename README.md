@@ -28,9 +28,12 @@ npm run backend
 
 Use the data.md file in doc to configure the strapi database for the companines info, jobs and users logins data. [Database setup](doc/data.md).
 ![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/968b2f09-95b5-45b6-a1c9-c658f9236c24)
-![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/335b1b4c-fb1c-4b0d-8142-d645feaf15a8)
 
-![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/804ae680-2c17-463b-8147-33d5a65663cb)
+![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/635ab825-730e-4eab-acbf-c54233647cfd)
+
+![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/f1b67de5-9edd-4578-b12e-710e606d9c5d)
+
+
 
 ![image](https://github.com/LukeJenningsMQ/First-Website-Assignment-Using-a-Strapi-Database/assets/61956662/42d280e0-8da9-485f-9a7a-9bb39ec4dbec)
 
