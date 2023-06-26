@@ -14,10 +14,12 @@ npm install
 npm run frontend
 ```
 Then you can follow the information on how to create the strapi backend and upload the sample data
+[assignment spec](doc/backend.md).
 
 ```shell
 npm run backend
 ```
+[assignment spec](doc/data.md).
 
 
 More details of assignment below
