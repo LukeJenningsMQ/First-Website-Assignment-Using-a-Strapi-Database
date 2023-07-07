@@ -2,7 +2,7 @@
 
 This is a website that uses a strapi database that I made for my web technology unit. In this repo I have included the files for frontend, you need to create the backend strapi database yourself. Instructions to do so are included. 
 
-This is a job application website where companies can post jobs and company information, then job applicants can log in and apply for the jobs. A video demonstrated can be seen here: 
+This is a job application website where companies can post jobs and company information, then job applicants can log in and apply for the jobs. A video demonstrated can be seen here: https://youtu.be/E3z-atAIRNY
 
 After the dependencies are installed using 'npm' such as 'http-server', you can run the frontend:
 
